@@ -1,4 +1,4 @@
-#include "ShimelsDebeb.h"
+#include "alx.h"
 /**
  * main - Entry point
  *
@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	char *sh = "ShimelsDebeb";
+	char *sh = "alx";
 
 	while (*sh)
 	{
